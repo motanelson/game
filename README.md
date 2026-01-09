@@ -1,4 +1,4 @@
-# game
-learn to game 
+# bash
+learn to bash source
 
 the read is a internal command of sh bash
